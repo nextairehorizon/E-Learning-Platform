@@ -6,4 +6,24 @@ This module is designed to introduce young scientists and industry employees to 
 
 ### repository initialization and cloning
 
+Setting up a local Git repository and obtaining remote repositories.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nextairehorizon/e-learning/blob/main/Data%20processing/Module%201%3A%20Git%20version%20control%20system/1%20repository%20initialization%20and%20cloning.ipynb)
+
+### Fundamental Commands add, commit, push, pull
+
+Mastering the core workflow for tracking changes and synchronization.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nextairehorizon/e-learning/blob/main/Data%20processing/Module%201%3A%20Git%20version%20control%20system/2%20Fundamental%20Commands%20add%2C%20commit%2C%20push%2C%20pull.ipynb)
+
+### Branching and Merging
+
+Creating separate lines of development and integrating changes safely.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nextairehorizon/e-learning/blob/main/Data%20processing/Module%201%3A%20Git%20version%20control%20system/3%20Branching%20and%20Merging.ipynb)
+
+### Collaboration Workflow (fork, pull request)
+
+Using Git platforms (like GitHub) for teamwork and code review.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nextairehorizon/e-learning/blob/main/Data%20processing/Module%201%3A%20Git%20version%20control%20system/4%20Collaboration%20Workflow%20(fork%2C%20pull%20request).ipynb)
