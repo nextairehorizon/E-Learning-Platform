@@ -5,3 +5,5 @@ This module is designed to introduce young scientists and industry employees to 
 ## Content can be found in the following notebooks
 
 ### repository initialization and cloning
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nextairehorizon/e-learning/blob/main/Data%20processing/Module%201%3A%20Git%20version%20control%20system/1%20repository%20initialization%20and%20cloning.ipynb)
