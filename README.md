@@ -2,7 +2,7 @@
 
 This E-Learning platform hosts training materials for both "hard" and "soft" skills, focusing on interactive modules tailored for learning artificial intelligence and air quality. The platform supports continuous learning and collaboration, fostering a community-driven approach to skill development in pollution monitoring technologies. The entire platform is divided into four main modules:
 
-- Data Processing
+- Data Science
 - Low Cost Sensors
 - Machine Learning Fundamentals & Applications
 - Air Quality
