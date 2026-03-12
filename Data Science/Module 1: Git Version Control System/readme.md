@@ -27,3 +27,9 @@ Creating separate lines of development and integrating changes safely.
 Using Git platforms (like GitHub) for teamwork and code review.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nextairehorizon/E-Learning-Platform/blob/main/Data%20Science/Module%201%3A%20Git%20Version%20Control%20System/4%20Collaboration%20Workflow%20(fork%2C%20pull%20request).ipynb)
+
+### Corresponding Workshop Video Material
+
+Recording of the workshop based on the repository content
+
+[![Watch Video](https://img.shields.io/badge/Play_Video-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)]([YOUR_ONEDRIVE_SHARE_LINK](https://etfoshr-my.sharepoint.com/:v:/g/personal/mcaleta_etfos_hr/IQDGRf47BI76ToerO8ullmQKAZzqCTfHXRSBv5eKLV-vH_g?e=0zJzbi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
