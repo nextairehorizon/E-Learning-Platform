@@ -32,4 +32,4 @@ Using Git platforms (like GitHub) for teamwork and code review.
 
 Recording of the workshop based on the repository content
 
-[![Watch Video](https://img.shields.io/badge/Play_Video-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)]([YOUR_ONEDRIVE_SHARE_LINK](https://etfoshr-my.sharepoint.com/:v:/g/personal/mcaleta_etfos_hr/IQDGRf47BI76ToerO8ullmQKAZzqCTfHXRSBv5eKLV-vH_g?e=0zJzbi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
+[![Watch Video](https://img.shields.io/badge/Play_Video-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)](https://etfoshr-my.sharepoint.com/:v:/g/personal/mcaleta_etfos_hr/IQDGRf47BI76ToerO8ullmQKAZzqCTfHXRSBv5eKLV-vH_g?e=W16ux2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
