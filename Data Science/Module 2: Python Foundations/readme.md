@@ -43,5 +43,6 @@ The module is divided into 5 interactive Jupyter notebooks that you can run dire
 3. Select **File > Save a copy in Drive** to create your own version that you can modify and save.
 
 Workshop part 1:
+
 [![Watch Video](https://img.shields.io/badge/Play_Video-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)](https://etfoshr-my.sharepoint.com/:v:/g/personal/aantunovic_etfos_hr/IQBP-sqMC5OJRZGSaDjemwuFAdzUVB4iPUvqIrmrN99ZUaA?e=1Yy0xq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
