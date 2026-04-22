@@ -35,6 +35,13 @@ The module is divided into 5 interactive Jupyter notebooks that you can run dire
 - **Modules:** Code organization, importing built-in modules (like `math` and `os`), and installing external packages.
 - **Object-Oriented Programming (OOP):** Understanding classes and objects, the `__init__` function, the `self` parameter, inheritance, and the core pillars of OOP (encapsulation, polymorphism).
 
+### 6. [Workshop materials]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nextairehorizon/E-Learning-Platform/blob/main/Data%20Science/Module%202%3A%20Python%20Foundations/5%20Modules%20and%20OOP.ipynb)
+
+
+
+[![Watch Video](https://img.shields.io/badge/Play_Video-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)](https://etfoshr-my.sharepoint.com/:v:/g/personal/aantunovic_etfos_hr/IQBP-sqMC5OJRZGSaDjemwuFAdzUVB4iPUvqIrmrN99ZUaA?e=1Yy0xq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ---
 
 ## 🛠️ How to use these notebooks?
