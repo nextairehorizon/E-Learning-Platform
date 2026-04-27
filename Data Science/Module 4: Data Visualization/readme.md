@@ -1,4 +1,4 @@
-# Module 5: Data Visualization - Python Session
+# Module 4: Data Visualization - Python Session
 
 Welcome to the Python part of **Module 4: Data Visualization**.
 
