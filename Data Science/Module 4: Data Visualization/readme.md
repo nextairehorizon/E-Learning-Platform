@@ -1,6 +1,6 @@
 # Data Visualization - Python Session
 
-Welcome to the Python part of **Module 5: Data Visualization**.
+Welcome to the Python part of **Module 4: Data Visualization**.
 
 This package contains the materials for **Mario Dudjak's session** and is designed for learners with little or no previous experience in data science. The notebooks follow the same general style as **Module 3: Scientific Data Manipulation**: short explanations, clear examples, environmental datasets, and guided practice tasks.
 
