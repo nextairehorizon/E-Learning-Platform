@@ -15,6 +15,22 @@ Module 4 equips participants with the practical skills to combine heterogeneous 
 
 •	Applying interoperability principles and metadata standards to support reproducibility and cross-platform use
 
+---
+
+### Strategic Importance within the Curriculum
+
+This module serves as the data fusion bridge of the AQ track. It operationalises outputs from:
+
+ •	Measurement modules (reference and LCS data)
+ 
+ •	QA/QC procedures
+ 
+ •	Modelling and forecasting approaches
+ 
+
+##### *By focusing on harmonisation and interoperability, it enables participants to move from isolated datasets to scalable, integrated environmental data systems, an essential prerequisite for modern AI-driven environmental intelligence. In an R&I context, these competencies support the development of robust, cross-border, multi-institutional AQ analytics infrastructures aligned with European environmental data standards and digital transformation priorities.*
+
+---
 
 ## Detailed curriculum content and training materials:
 
@@ -24,7 +40,7 @@ Module 4 equips participants with the practical skills to combine heterogeneous 
 
 **Expected output:** one harmonised “master dataset” with documented schema + metadata + provenance, exportable for ML module.
 
-
+---
 #### PART 1 : Satellite data for AQ integration 
 
 #### PART 2 : Reanalysis datasets as continuous predictors
