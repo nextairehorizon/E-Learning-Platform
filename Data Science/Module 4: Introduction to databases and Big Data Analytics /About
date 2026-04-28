@@ -1,0 +1,15 @@
+    Sub-topics: Relational (SQL) vs. NoSQL Databases; SQL Fundamentals; The "Vs" of Big Data (Volume, Velocity, Variety); Hadoop Ecosystem (HDFS); Apache Spark Basics; Data Warehouses vs. Data Lakes. 
+
+    Course Detail: This module bridges the gap between traditional structured data storage and modern Big Data processing. Students are introduced to the fundamental principles of database management systems, exploring when to utilize relational SQL databases versus flexible NoSQL solutions. The course progresses to the Big Data landscape, where students learn how to handle massive datasets that exceed the capacity of standard machines, utilizing distributed computing frameworks like Apache Spark to process and analyze information at scale. 
+
+    Learning Outcomes: 
+
+    Distinguish between database paradigms by comparing the use cases, scalability, and structure of Relational (SQL) and Non-Relational (NoSQL) systems. 
+
+    Construct and execute queries to retrieve and manage data using standard SQL syntax. 
+
+    Analyze the challenges of Big Data by applying the concepts of Volume, Velocity, and Variety to real-world scenarios. 
+
+    Apply distributed computing techniques using frameworks like Apache Spark or Hadoop to process large-scale datasets efficiently. 
+
+ 
