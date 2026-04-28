@@ -1,4 +1,22 @@
-# Physics-Informed Neural Networks for Air Pollution Dynamics
+# Session 1: Introduction to Domain-Aware Machine Learning
+
+The first session gives an overview over Domain-Aware Machine learning. It will start with introducing terminology, situating Domain-Aware Machine Learning related to the wider fields of Machine Learning and Scientific Machine Learning. We then discuss a regression problem as a representative machine learning task and discuss the ingredients that any machine learning system relies upon. After this, we finally approach domain-aware machine learning as a set of techniques that alter, improve, or inform the individual ingredients of a machine learning system with prior knowledge.
+
+### Learning and Teaching Method
+
+This session will be delivered as a lecture, with in-depth discussions between lecturer and students. In face-to-face settings, the slides will be accompanied by illustrations on the blackboard/whiteboard/flipchart. The depth of the presented concepts will be catered to the student cohort and their respective backgrounds.
+
+### 🎯 Intended Learning Outcomes
+
+At the end of this sessions, the students can
+
+- situate domain-aware machine learning relative to other ML-related fields (physics-informed machine learning, scientific machine learning)
+- list potential benefits of domain-aware machine learning
+- mathematically formulate a generic machine learning problem and discuss its main ingredients
+- understand how domain knowledge can help selecting, modifying, or informing ingredients of a machine learning problem
+- give examples for different approaches to domain-aware machine learning
+
+# Session 2: Physics-Informed Neural Networks for Air Pollution Dynamics
 
 This repository contains a hands-on tutorial series introducing **Physics-Informed Neural Networks (PINNs)** through a simple and intuitive application from **air pollution modeling**.
 
