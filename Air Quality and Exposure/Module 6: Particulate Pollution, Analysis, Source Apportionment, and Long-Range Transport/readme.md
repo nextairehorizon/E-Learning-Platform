@@ -188,4 +188,4 @@ The following files have been uploaded and are available through the links above
 
 ## Suggested citation / acknowledgement
 
-This module was prepared by NCSR “Demokritos” as part of the training material on particulate pollution, PM analysis, source apportionment and long-range transport. The material was developed by Manos Manousakas and includes lecture slides, student reading material and practical examples for air-quality research and training.
+This module was prepared by NCSR “Demokritos” as part of the NextAIRE training material on particulate pollution, PM analysis, source apportionment and long-range transport. The material was developed by Manos Manousakas and includes lecture slides, student reading material and practical examples for air-quality research and training.
