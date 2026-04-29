@@ -64,11 +64,11 @@ execute basic queries on the resulting databases
 ```text
 .
 ├── README.md
-├── slides/
-├── exercises/
-├── datasets/
-├── sql/
-└── references/
+├── Slides/
+├── Exercises/
+├── Datasets/
+├── SQL/
+
 ```
 # Tools and Technologies
 
