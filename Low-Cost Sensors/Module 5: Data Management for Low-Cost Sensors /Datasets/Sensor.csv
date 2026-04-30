@@ -1,0 +1,21 @@
+SensorID,Type,Channel_1,Channel_2,StartDate,StationID
+1,Sensirion SHT15,Temperature,Humidity,2024-01-10,GRZ01
+2,DHT22,Temperature,Humidity,2024-01-12,GRZ01
+3,Bosch BME280,Temperature,Pressure,2024-01-15,GRZ01
+4,Plantower PMS5003,PM2.5,PM10,2024-01-18,GRZ01
+5,Alphasense NO2-B43F,NO2,O3,2024-01-20,GRZ01
+6,Sensirion SHT31,Temperature,Humidity,2024-02-05,GRZ02
+7,DHT22,Temperature,Humidity,2024-02-07,GRZ02
+8,Bosch BME680,Temperature,VOC,2024-02-10,GRZ02
+9,Plantower PMS7003,PM1,PM2.5,2024-02-12,GRZ02
+10,Alphasense CO-B4,CO,Temperature,2024-02-15,GRZ02
+11,Sensirion SHT15,Temperature,Humidity,2024-03-01,EZE01
+12,DHT22,Temperature,Humidity,2024-03-03,EZE01
+13,Bosch BME280,Temperature,Pressure,2024-03-05,EZE01
+14,Plantower PMS5003,PM2.5,PM10,2024-03-08,EZE01
+15,Alphasense NO2-B43F,NO2,O3,2024-03-10,EZE01
+16,Sensirion SHT31,Temperature,Humidity,2024-04-01,MDZ01
+17,DHT22,Temperature,Humidity,2024-04-04,MDZ01
+18,Bosch BME680,Temperature,VOC,2024-04-07,MDZ01
+19,Plantower PMS7003,PM1,PM2.5,2024-04-10,MDZ01
+20,Alphasense CO-B4,CO,Temperature,2024-04-12,MDZ01
