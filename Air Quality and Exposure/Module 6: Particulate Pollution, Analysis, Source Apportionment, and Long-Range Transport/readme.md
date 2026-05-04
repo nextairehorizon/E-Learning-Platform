@@ -1,4 +1,4 @@
-# Module 7: Particulate Pollution, Analysis, Source Apportionment, and Long-Range Transport
+# Module 6: Particulate Pollution, Analysis, Source Apportionment, and Long-Range Transport
 
 **Duration:** 3 sessions; approx. 2 hrs each  
 
