@@ -16,15 +16,15 @@ This course gives an introduction into communication networks with focus on aspe
 * The ISO-OSI model of network communication
 * Network elements, topologies and communication types
 * Introduction to wireless technologies
-** What are the criteria to select the right wireless technology?
-** Introduction to common technologies like Wi-Fi, Bluetooth, Zigbee, Z-wave, LoRa & LoRaWAN, Mobile Phone Networks, Satelite Networks, and others
+    * What are the criteria to select the right wireless technology?
+    * Introduction to common technologies like Wi-Fi, Bluetooth, Zigbee, Z-wave, LoRa & LoRaWAN, Mobile Phone Networks, Satelite Networks, and others
 * Introduction to wired technologies
-** Ethernet, Fibre Optical Ethernet, Power over Ethernet
-** Fieldbuses
+    * Ethernet, Fibre Optical Ethernet, Power over Ethernet
+    * Fieldbuses
 * Communication Protocols
-** HTTP - Hyper Text Transfer Protocol
-** MQTT - Message Queuing Telemetry Transport
-** CoAP - COnstrained Application Protocol
+    * HTTP - Hyper Text Transfer Protocol
+    * MQTT - Message Queuing Telemetry Transport
+    * CoAP - COnstrained Application Protocol
 
 ## Course Description
 
