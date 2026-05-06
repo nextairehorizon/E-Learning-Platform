@@ -37,7 +37,7 @@ The module is divided into 5 interactive Jupyter notebooks that you can run dire
 
 ### 6. [Workshop materials]
 Watch the first workshop recording here:
-[![Watch Video](https://img.shields.io/badge/Play_Video-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)](https://etfoshr-my.sharepoint.com/:v:/g/personal/aantunovic_etfos_hr/IQBP-sqMC5OJRZGSaDjemwuFAdzUVB4iPUvqIrmrN99ZUaA?e=1Yy0xq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[![Watch Video](https://img.shields.io/badge/Play_Video-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)](https://www.youtube.com/watch?v=kdzuRm0KKfI)
 
 Access the first workshop notebook here:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nextairehorizon/E-Learning-Platform/blob/main/Data%20Science/Module%202%3A%20Python%20Foundations/NextAIRE_WS2_Python.ipynb)
