@@ -1,0 +1,57 @@
+
+CREATE DATABASE CinemaTickets
+GO
+
+USE CinemaTickets
+GO
+
+CREATE TABLE Person
+(
+	IDPerson	INT PRIMARY KEY IDENTITY(1,1),
+	FirstName	CHAR(25) NOT NULL,
+	LastName	CHAR(25) NOT NULL
+)
+GO
+
+CREATE TABLE Movie
+(
+	IDMovie		INT PRIMARY KEY IDENTITY(1,1),
+	MovieTitle	CHAR(25) NOT NULL
+)
+GO
+
+CREATE TABLE Location
+(
+	IDLocation	INT PRIMARY KEY IDENTITY(1,1),
+	LocationTitle		CHAR(25) NOT NULL,
+	LocationAddress		CHAR(25) NOT NULL
+)
+GO
+
+CREATE TABLE CinemaHall
+(
+	IDCinemaHall	INT PRIMARY KEY IDENTITY(1,1),
+	HallName		CHAR(25) NOT NULL,
+	Capacity	INT NOT NULL CHECK (Capacity BETWEEN 50 AND 250),
+	LocationID	INT NOT NULL REFERENCES Location(IDLocation)
+)
+GO
+
+CREATE TABLE Term
+(
+	IDTerm		INT PRIMARY KEY IDENTITY(1,1),
+	MovieID		INT NOT NULL REFERENCES Movie(IDMovie),
+	CinemaHallID	INT NOT NULL REFERENCES CinemaHall(IDCinemaHall),
+	TermTime		DATETIME NOT NULL,
+	UNIQUE (MovieID, CinemaHallID, TermTime)
+)
+GO
+
+CREATE TABLE Reservation
+(
+	TermID			INT NOT NULL REFERENCES Term(IDTerm),
+	PersonID		INT NOT NULL REFERENCES Person(IDPerson),
+	NumberOfTickets	INT NOT NULL CHECK (NumberOfTickets BETWEEN 1 AND 5),
+	UNIQUE (TermID, PersonID)
+)
+GO
