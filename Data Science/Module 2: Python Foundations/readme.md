@@ -36,8 +36,16 @@ The module is divided into 5 interactive Jupyter notebooks that you can run dire
 - **Object-Oriented Programming (OOP):** Understanding classes and objects, the `__init__` function, the `self` parameter, inheritance, and the core pillars of OOP (encapsulation, polymorphism).
 
 ### 6. [Workshop materials]
+#### 6.1. Python fundamentals (Part 1)
 Watch the first workshop recording here:
 [![Watch Video](https://img.shields.io/badge/Play_Video-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)](https://www.youtube.com/watch?v=kdzuRm0KKfI)
+
+Access the first workshop notebook here:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nextairehorizon/E-Learning-Platform/blob/main/Data%20Science/Module%202%3A%20Python%20Foundations/NextAIRE_WS2_Python.ipynb)
+
+#### 6.2. Python fundamentals (Part 2)
+Watch the first workshop recording here:
+[![Watch Video](https://img.shields.io/badge/Play_Video-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)](https://youtu.be/juzR1s26GYg?si=N8LNthFXENBNpNa4)
 
 Access the first workshop notebook here:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nextairehorizon/E-Learning-Platform/blob/main/Data%20Science/Module%202%3A%20Python%20Foundations/NextAIRE_WS2_Python.ipynb)
