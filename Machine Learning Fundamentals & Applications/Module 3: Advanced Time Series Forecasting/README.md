@@ -72,7 +72,4 @@ The `dataset/` folder contains 12 station CSV files from the Beijing Multi-Site 
 
 ## Responsible Partner Details
 
-- **Institution:** To be added
-- **Responsible person:** To be added
-- **Email:** To be added
-- **GitHub username/email:** To be added
+- **Institution:** FERIT Osijek, Croatia
