@@ -1,8 +1,8 @@
-# Module 4: Data Visualization - Python Session
+# Module 5: Data Visualization - Python Session
 
-Welcome to the Python part of **Module 4: Data Visualization**.
+Welcome to the Python part of **Module 5: Data Visualization**.
 
-These materials were prepared for the **first session** of Module 4. The session is intended for learners with little or no prior experience in data science, so the notebooks use simple explanations, step-by-step examples, and guided practice tasks. The emphasis is on clear, practical examples based on environmental and pollutant-style datasets, with a focus on building confidence in reading and creating common scientific plots.
+These materials were prepared for the **first session** of Module 5. The session is intended for learners with little or no prior experience in data science, so the notebooks use simple explanations, step-by-step examples, and guided practice tasks. The emphasis is on clear, practical examples based on environmental and pollutant-style datasets, with a focus on building confidence in reading and creating common scientific plots.
 
 ## Notebook Overview
 
@@ -64,4 +64,4 @@ By the end of this session, learners should be able to:
 
 ## Note
 
-These materials cover **only the Python part of Module 4**, which is delivered by Mario Dudjak. The second session, including BI and geospatial mapping topics, is prepared separately by the other responsible partner.
+These materials cover **only the Python part of Module 5**, which is delivered by Mario Dudjak. The second session, including BI and geospatial mapping topics, is prepared separately by the other responsible partner.

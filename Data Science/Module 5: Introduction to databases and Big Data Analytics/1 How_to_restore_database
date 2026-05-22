@@ -1,0 +1,9 @@
+HOW TO RESTORE DATABASE FROM BACKUP
+
+Put it on D:\
+
+Create AdventureWorksENG database by restoring it using Microsoft SQL Server Management Studio:
+
+    Right-click Databases and choose Restore Database... 
+    Source > Device > click button … Add 
+    Choose File name: D:\AdventureWorksENG.bak > OK (4 times)
