@@ -6,7 +6,7 @@ The module is divided into 5 interactive Jupyter notebooks that you can run dire
 
 ---
 
-## 🚀 Notebook Overview
+## Notebook Overview
 
 ### 1. [Introduction and Environment]
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nextairehorizon/E-Learning-Platform/blob/main/Data%20Science/Module%202%3A%20Python%20Foundations/1%20Intro%20and%20Environment.ipynb)
@@ -60,7 +60,7 @@ Access the notebook here:
 
 ---
 
-## 🛠️ How to use these notebooks?
+## How to use these notebooks?
 1. Click the "Open in Colab" link next to each notebook.
 2. Sign in with your Google account.
 3. Select **File > Save a copy in Drive** to create your own version that you can modify and save.
