@@ -57,7 +57,22 @@ Watch the recording here:
 Access the notebook here:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nextairehorizon/E-Learning-Platform/blob/main/Data%20Science/Module%202%3A%20Python%20Foundations/NextAIRE_WS3_Python.ipynb)
 
-
+---
+ 
+## Suggested Teaching Plan
+ 
+This module is intended for 3 sessions of approximately 2 hours each. While the workshop recordings are available for self-paced study, the structure below provides a recommended sequence for working through the material.
+ 
+**Session 1**
+- Notebook 1: Introduction and Environment
+- Notebook 2: Variables, Operators and Data Structures
+**Session 2**
+- Notebook 3: Control Flow
+- Notebook 4: Functions, Files and Exceptions
+**Session 3**
+- Notebook 5: Modules and OOP
+This structure gives enough material for approximately six hours of self-paced learning, covering foundational concepts through to object-oriented programming.
+ 
 ---
 
 ## How to use these notebooks?
