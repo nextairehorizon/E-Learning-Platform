@@ -66,11 +66,14 @@ This module is intended for 3 sessions of approximately 2 hours each. While the 
 **Session 1**
 - Notebook 1: Introduction and Environment
 - Notebook 2: Variables, Operators and Data Structures
+  
 **Session 2**
 - Notebook 3: Control Flow
 - Notebook 4: Functions, Files and Exceptions
+  
 **Session 3**
 - Notebook 5: Modules and OOP
+  
 This structure gives enough material for approximately six hours of self-paced learning, covering foundational concepts through to object-oriented programming.
  
 ---
