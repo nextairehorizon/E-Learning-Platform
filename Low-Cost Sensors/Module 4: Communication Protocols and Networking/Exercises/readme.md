@@ -81,3 +81,12 @@ To ensure that the data we get is properly formatted in JSON strings, we use Pyd
 
 As a next step we implement the client. You can look at the file `05_client.py` to see the client. We use the requests-package to send data to the server. The data is JSON encoded. The client implements all methods with GET, POST, PUT, and DELET requests.
 
+The server can be run with 
+```
+fastapi run ./05_server.py --port 8080
+```
+and the client script can be started with a python interpreter
+```
+python ./05_client.py
+```
+
