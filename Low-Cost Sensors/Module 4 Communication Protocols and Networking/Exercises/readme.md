@@ -21,6 +21,9 @@ conda create -c conda-forge -n spyder-env spyder numpy scipy pandas matplotlib s
     * Requests:
         * PIP: `pip install requests`
         * conda: `conda install conda-forge::requests`
+    * Eclipse Paho MQTT:
+        * PIP: `pip install paho-mqtt`
+        * conda: `conda install conda-forge::paho-mqtt`
 
 ## First simple HTTP server
 The first example is the file `01_simple_server.py` this file is already complete and creates the first, most simple HTTP possible. All you have to to do is to navigate to the file either in the command prompt or in the IDE and start it. In the command prompt you can start the server with
@@ -90,3 +93,20 @@ and the client script can be started with a python interpreter
 python ./05_client.py
 ```
 
+## MQTT publish and subscribe messages
+After the HTTP examples, we are now moving to MQTT. There are two files provided for this:
+* `06_subscribe.py` 
+    * This is a script that subscribes to messages from a broker
+    * It can be started with `python ./06_subscribe.py` and then keeps on running
+* `06_publish.py`
+    * This script sends one messages to the broker
+    * It can be started with `python ./06_publish.py` and finishes after the messaged has been send
+
+These two scripts are the basis to explore the MQTT functionality so that you can:
+* Modify the subscription and publishing topics
+    * Try to use wild cards for the subscription
+* Change the data that is send
+* Use different brokers
+* Use different QoS
+* Use different MQTT versions
+* Send multiple messages
