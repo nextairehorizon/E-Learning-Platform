@@ -1,5 +1,6 @@
 # Module 5: Communication Protocols and Networking
 
+
 ## Course Information
 
 **Duration:** 2 sessions, approximately 2 hours each
@@ -8,9 +9,11 @@
 
 **Instructor:** Heimo Gursch — hgursch@know-center.at
 
+
 ## Overview
 
 This course gives an introduction into communication networks with focus on aspects and technologies particularly interesting sensor networks and telemetry collection. The course covers the separation of concerns in point-to-point and end-to-end communications, gives an overview about wireless and wired communication technologies, and explains how common top-layer communication protocols work.
+
 
 ### Sub-topics
 * The ISO-OSI model of network communication
@@ -26,6 +29,7 @@ This course gives an introduction into communication networks with focus on aspe
     * MQTT - Message Queuing Telemetry Transport
     * CoAP - COnstrained Application Protocol
 
+
 ## Course Description
 
 Selecting the right communication technologies and protocols is challenging due to the sheer number of available solutions and their different properties. Knowledge about the properties is needed as well as an understanding of the different communication parameters that determine the suitability the various technologies.
@@ -33,6 +37,7 @@ Selecting the right communication technologies and protocols is challenging due 
 This course introduces the fundamentals of digital communication networks. It states with the idea of separation of concerns introduced with the layered approach of the ISO-OSI model followed by network elements, topologies and communication types to understand network architectures. The course also proves an overview of commonly used communication technologies, wireless and wired, with their properties. The introduction of communication protocols gives an understanding how data can be transmitted end-to-end.
 
 By the end of the course, the participants are able to select appropriate communication technologies from the available wireless and wired technologies as well as implement simple communication systems to establish data transfer from sensor notes.
+
 
 ## Learning Outcomes
 
@@ -71,37 +76,58 @@ Participants will develop an understanding the following technologies and select
 
 ### Implement end-to-end communication with IoT communication protocols
 
-Participants will understand the following communication protocols and learn how to use them
+Participants will understand HTTP and MQTT communication protocols and learn how to use them
 
-* HTTP
-* MQTT
-* CoAP
+
+## Course Organisation
+
+This module is intended for 2 sessions of approximately 2 hours each.
+
+
+### Session 1
+
+* The ISO-OSI model of network communication
+* Network elements, topologies and communication types
+* Wireless, wired, and fibre optic communication
+
+
+### Session 2
+
+* Communication Protocols HTTP, MQTT, and CoAP
+* Exercises with HTTP and MQTT
 
 
 ## Repository Structure
 
 ```text
 .
-├── README.md
-
+├── Exercises/
+│   ├── Example code and exercises for HTTP and MQTT
+│   └── readme.md - guides though the exercises
+│
+├── Slides/
+│   └── Presentation materials for the module, one for each session
+│
+└── readme.md - this file
 ```
+
 
 # Tools and Technologies
 
+
 The course involves the use of the following tools and technologies to create Python-based example implementations:
 
-* HTTP client and server library
-* MQTT
-* CoAP
-
-
-
->>>
+* Python and any IDE or editor of choice
+* FastAPI to create a HTTP server
+* Pydantic to validate data send to the HTTP server
+* Requests to send HTTP requests from the client to the server
+* Eclipse Paho MQTT to 
 
 
 ## Target Audience
 
 This module is intended for learners that start working with devices that are are delivering their data over network connections. The modules starts with the foundations and terminologies to introduce learners to the subject and explains commonly used networking technologies, their use, and their properties. The module is suitable for participants with an interest in network and communication technologies that want to learn how to select and use said network and communication technologies.
+
 
 ## Prerequisites
 
