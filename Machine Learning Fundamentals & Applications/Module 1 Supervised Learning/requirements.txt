@@ -1,0 +1,21 @@
+# Python 3.10 or later.
+
+# --- Core (required by every notebook) -------------------------------------
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.5
+matplotlib>=3.7
+seaborn>=0.12
+jupyter>=1.0
+
+# Exercise 7.3 demonstrates that XGBoost is a drop-in replacement for
+# sklearn.GradientBoostingRegressor. The cell catches ImportError, so a
+# missing xgboost prints a hint and is silently skipped.
+xgboost>=2.0
+
+# --- Optional (only used by specific cells) --------------------------------
+# Section 8.6 demonstrates SHAP. If shap is not installed the cell prints a
+# short hint and is silently skipped — the rest of the notebook still runs.
+shap>=0.44
+
+
