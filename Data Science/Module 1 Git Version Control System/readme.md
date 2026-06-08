@@ -90,9 +90,8 @@ By the end of this module, students will be able to:
 - Configure essential global Git settings (username and email) required for tracking contributions.
 2. Core Version Control Workflow
 - Stage specific file modifications using git add and commit changes with clear, descriptive messages to create a transparent project history.
-- Synchronize local developments with remote servers using git push and fetch/integrate remote updates using git pull.
 - Maintain a clean project audit trail specifically for code, data analysis scripts, and document tracking in air quality projects.
 3. Isolated Development
 - Create, navigate, and manage separate lines of development using Git branches to work on features or data models without disrupting the main codebase.
 4. Collaborative Engineering
-- Effectively utilize pull-requests
+- Effectively utilize pull and push requests for the purpose of working with remote repositories
