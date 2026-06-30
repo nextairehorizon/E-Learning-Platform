@@ -4,13 +4,13 @@ Duration: 1 session; approx. 2 hrs
 
 [RESPONSIBLE PARTNER DETAILS]: [IMI Zagreb Croatia, Suzana Sopčić, ssopcic@imi.hr, and GitHub username: sopcic.suzana@gmail.com]
 
-Sub-topics: 
+# Sub-topics: 
 Detection Principles (Optical, Electrochemical, MEMS); Performance Metrics (Precision, Sensitivity, Limit of Detection); Trade-offs between cost and reliability.  
 
-Course Detail: 
+# Course Detail: 
 This section defines the core hardware and categorizes sensors by their physical principles. It analyzes the inherent trade-offs in low-cost devices, setting realistic expectations for data quality compared to industrial-grade reference instruments.  
 
-Learning Outcomes:  
+# Learning Outcomes:  
 - Classify sensor types based on their operating principles (e.g., laser scattering for PM vs. electrochemical for $NO_2$). 
 - Explain the fundamental electrochemical principles underlying sensor operation, including oxidation–reduction reactions, electrode functions, and the role of the electrolyte.
 - Identify the main components of an electrochemical gas sensor and describe the function of the working, counter, and reference electrodes, electrolyte, and gas diffusion barrier.
