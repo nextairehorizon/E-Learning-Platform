@@ -1,4 +1,4 @@
-# __Module 3: Calibration, positioning and Environmental Impact__
+# __Module 3: Sensor performance, calibration, positioning and case studies__
 This module is a part of  Low-cost sensors 
 
 ## __Course details__
