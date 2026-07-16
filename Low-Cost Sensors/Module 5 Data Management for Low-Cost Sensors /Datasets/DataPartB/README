@@ -1,0 +1,134 @@
+# Data Directory
+
+This directory contains the datasets used in the Python and Jupyter practices for the **Data Management for Low-Cost Sensors** class.
+
+The files are synthetic and were created for educational purposes. They include intentional inconsistencies, missing values, invalid measurements, duplicate records, and naming differences so that students can practice data profiling, cleaning, integration, and entity matching.
+
+## Files
+
+### `sensor_graz.csv`
+
+Sensor measurements collected in Graz.
+
+Main columns:
+
+- `timestamp`: date and time in `YYYY-MM-DD HH:MM:SS` format
+- `sensor_id`: sensor identifier
+- `temperature_c`: temperature in degrees Celsius
+- `humidity_pct`: relative humidity percentage
+- `battery_pct`: battery level percentage
+- `location`: measurement location
+
+Intentional issues may include:
+
+- missing temperature values
+- invalid humidity values
+- duplicate observations
+
+### `sensor_madrid.json`
+
+Sensor measurements collected in Madrid.
+
+Main fields:
+
+- `time_unix`: timestamp stored as Unix time
+- `device`: sensor identifier
+- `temp_f`: temperature in degrees Fahrenheit
+- `rh`: relative humidity percentage
+- `battery_v`: battery voltage
+- `site`: measurement location
+
+Intentional issues may include:
+
+- different attribute names
+- different timestamp representation
+- different temperature units
+- missing values
+- invalid measurements
+- inconsistent location names
+
+### `station_catalog_a.csv`
+
+Reference catalog containing standardized station information.
+
+Main columns:
+
+- `station_id`: official station identifier
+- `name`: station name
+- `lat`: latitude
+- `lon`: longitude
+
+This file is used for exact joins and metadata enrichment.
+
+### `station_catalog_b.csv`
+
+Alternative station catalog containing variations of the same stations.
+
+Main columns:
+
+- `id`: alternative station identifier
+- `station_name`: alternative station name
+- `latitude`: latitude
+- `longitude`: longitude
+
+This file contains spelling, formatting, and language variations designed for entity-matching exercises.
+
+### `corrupted_data.csv`
+
+Small dataset containing intentionally corrupted records.
+
+Main columns:
+
+- `timestamp`
+- `name`
+- `battery_status`
+- `temperature`
+- `humidity`
+- `location`
+
+Intentional issues include:
+
+- missing timestamps
+- battery values outside the valid range
+- impossible temperature values
+- invalid humidity values
+- spelling errors
+- inconsistent sensor names
+- duplicate or potentially duplicate records
+
+## Learning Objectives
+
+These datasets support exercises on:
+
+1. data profiling
+2. structural and semantic heterogeneity
+3. ETL pipelines
+4. schema mapping
+5. unit conversion
+6. missing-value treatment
+7. duplicate detection
+8. data-quality validation
+9. temporal integration
+10. entity matching
+
+## Important Notes
+
+- Do not modify the original files directly.
+- Load the data into a DataFrame and create transformed copies.
+- Invalid values are intentional and should not be removed before the exercises.
+- The datasets do not represent real monitoring stations or real environmental measurements.
+- All data is synthetic and intended only for teaching and practice.
+
+## Example
+
+```python
+from pathlib import Path
+import pandas as pd
+
+DATA = Path("data")
+
+graz = pd.read_csv(DATA / "sensor_graz.csv")
+madrid = pd.read_json(DATA / "sensor_madrid.json")
+
+print(graz.head())
+print(madrid.head())
