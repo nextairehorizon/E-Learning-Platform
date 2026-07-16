@@ -3,7 +3,7 @@
 ## Contents
 
 - `Data_Management_Practices.ipynb`: version with reference solutions.
-- `Datasets/`: synthetic CSV and JSON files with intentional heterogeneity and data-quality problems.
+- `Datasets/DataPartB/`: synthetic CSV and JSON files with intentional heterogeneity and data-quality problems.
 
 ## Requirements
 
