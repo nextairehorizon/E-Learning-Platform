@@ -1,0 +1,6 @@
+timestamp,name,battery_status,temperature,humidity,location
+13:12:00.12,Thing_One,30,12,42.0,Graz
+13:27:00.15,Thing_2,120,13,9999.99,Madring
+13:12:00.12,Thing_1,30,-500,42.0,Graz
+,Thing_3,75,21,,Madrid
+14:01:05.00,thing-2,80,22,51.0,Madrid
