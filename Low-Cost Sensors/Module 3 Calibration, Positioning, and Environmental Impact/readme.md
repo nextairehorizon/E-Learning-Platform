@@ -1,6 +1,12 @@
 # __Module 3: Sensor performance, calibration, positioning and case studies__
 This module is a part of  Low-cost sensors 
 
+Duration: 1-2 session; approx. 2 hrs
+
+[RESPONSIBLE PARTNER DETAILS]: [IMI Zagreb Croatia, Silvije Davila, sdavila@imi.hr , and GitHub username/email sdavilaIMI/sdavila@imi.hr]
+
+[RESPONSIBLE PARTNER DETAILS]: [VITO, Belgium, Martine Van Poppel, martine.vanpoppel@vito.be]
+
 ## __Course details__
 Addresses how to ensure data accuracy despite low hardware costs. It explains techniques to correct signal drift and analyzes external factors like humidity and temperature that skew readings. It explains lab calibration and validation. It shows some examples of case studies and explaining deployment strategie.
 - Duration: 1-2 sessions; approx. 2 hrs each 
